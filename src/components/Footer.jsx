@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="flex flex-col justify-center max-w-7xl mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4 p-4">Orakzai Mart</h3>
+            
             <p className="text-gray-300">Digital Shop for Dress, General, and Smart Devices</p>
           </div>
           
